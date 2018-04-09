@@ -29,7 +29,7 @@ Let's take another example that define the dynamic type declration (DTD)/ type i
 
 //mixedVar.go
 
-###Constants
+##Constants
 Constants refers to the fixed values in the program that cannot be altered during program execution. The fixed values are also know as Literals. Go support different type of literals such as Interger litereal, floating point literals and string literals. let's take an example for better understanding. here, const keyword is used to declare constants with a specific type.
 
 //constant.go
