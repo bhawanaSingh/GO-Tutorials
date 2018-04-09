@@ -13,3 +13,9 @@ Defining package name is mandatory for writing Go programs. it is the starting p
 The next line contain main() function where program execution begins. we can use the single line comment(//.....) and multiline comment(/*......*/) simillarly to java.
 The next line contain fmt.Println(....) is another function available in Go which contain the message " Hello World" to display on       screen.
 In Go if the name start with capital letter it means they are exported Function or variable/constant. such as Pi is exported from math package if it is pi it behaves differently.
+
+## Basics
+Go support different data type such as Boolean type, Numeric type, string type, derived type(Array, structure, union, function, slice, function, interface, map and channel type).
+
+### Variables:
+In any language variables are used to store values. In Go it is vary easy to define a varible let's do it.
