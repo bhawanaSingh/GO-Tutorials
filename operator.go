@@ -18,4 +18,8 @@ func main() {
          var d, r int = 60, 13
          fmt.Println(d&r, d|r, a<<2, a>>2, a^b)
  
+      fmt.Println(&a)// to show address of variable "a"
+       var p *int // how to declare pointer variable, both a and p show the same address
+       p = &a
+       fmt.Println(p)
 }
